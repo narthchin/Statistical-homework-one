@@ -1,5 +1,5 @@
 # Statistical-homework-one
-![python](https://img.shields.io/badge/Python-3.9.6-blue) ![license](https://img.shields.io/badge/license-GPL--2.0-green) [![codeql](https://img.shields.io/badge/CodeQL-pass-brightgreen)](https://github.com/Narthchin/Statistical-homework-one/actions/workflows/codeql-analysis.yml)
+![python](https://img.shields.io/badge/Python-3.9.6-blue) ![license](https://img.shields.io/badge/license-GPL--2.0-green) [![codeql](https://img.shields.io/badge/CodeQL-passing-brightgreen)](https://github.com/Narthchin/Statistical-homework-one/actions/workflows/codeql-analysis.yml)
 ## 介绍
 
 本项目原为秋季统计学习导论作业，我在完成代码和报告后选择将其开源。任务共包含两项：
@@ -28,7 +28,7 @@
 
 This project is homework 1 of Course 80250272-An Introduction to Statistical Learning Theory. We decided to make it open-source after we finished the homework and reports
 
-1. Use function [`load_breast_cancer`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer) to load the breast cancer set and select a methon to classify them，we choose`linearSVC`as the method
+1. Use function [`load_breast_cancer`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer) to load the breast cancer set and select a method to classify them，we choose`linearSVC`as the method
 2. Load the CSV files respectively，and use `KNN` method to classify the news
 
 ## Install
